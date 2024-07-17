@@ -1,6 +1,6 @@
 # Data Analysis and Practical Statistics
 ### Project Description
- This is a project for the Udacity course Intro to Data Analysis and Practical Statistics. It is made up of 2 parts. The first is contained in the Investigate_a_Dataset notebook. The second being found in the Analyze_AB_Test_Results notebook.  
+This is a project for the Udacity course Intro to Data Analysis and Practical Statistics. It is made up of 2 parts. The first is contained in the Investigate_a_Dataset notebook. The second being found in the Analyze_AB_Test_Results notebook.  
 ### Environment(s)
 Jupyter Notebook
 ### Language(s)
